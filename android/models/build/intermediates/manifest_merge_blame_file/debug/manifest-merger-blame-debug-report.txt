@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\ajhop\Downloads\examples-master\examples-master\lite\examples\image_classification\android\models\src\main\AndroidManifest.xml
+8-->D:\workspace\deepfinder\DeepFinder\android\models\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\ajhop\Downloads\examples-master\examples-master\lite\examples\image_classification\android\models\src\main\AndroidManifest.xml
+9-->D:\workspace\deepfinder\DeepFinder\android\models\src\main\AndroidManifest.xml
 10
 11</manifest>
